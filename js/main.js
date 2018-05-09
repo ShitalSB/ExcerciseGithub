@@ -1,1 +1,4 @@
-console.log("Manpreet shital");
+
+document.body.addEventListener("click", function(){
+    alert("hi there")
+})
